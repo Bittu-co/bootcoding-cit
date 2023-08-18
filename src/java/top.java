@@ -1,6 +1,6 @@
 public class top {
     public static void main(String[] args) {
-int minutes=5;it
+int minutes=5;
         int hours =2;
 int seconds=minutes*60;
 int hourseconds= hours*60*60;
